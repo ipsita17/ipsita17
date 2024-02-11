@@ -10,7 +10,7 @@ I like making complicated problems easy with beautiful and user-friendly designs
 
 ## Fun Fact 🎈🥳:
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
-<img align="left" height="150" src="https://github.com/prabir07/prabir07/blob/main/cat.png" alt="octocat" style="margin-right: 2rem;" />
+<img align="left" height="150" src="https://github.com/ipsita17/ipsita17/blob/main/cat.png" alt="octocat" style="margin-right: 2rem;" />
 
 • 💬 Ask me about <b>CORE JAVA, SPRING, SQL </b>.<br/>
 • 🔭 I’m always <b>learning new skills!</b> <br/>
