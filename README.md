@@ -63,7 +63,7 @@ I like making complicated problems easy with beautiful and user-friendly designs
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
 ![DOCKER](https://img.shields.io/badge/Docker-5091CD?style=for-the-badge&logo=Docker&logoColor=white "DOCKER")
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")
 <hr />
 
 ### **Thanks for checking out my GitHub Profile!😊** 
