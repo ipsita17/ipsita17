@@ -15,7 +15,7 @@ I like making complicated problems easy with beautiful and user-friendly designs
 • 💬 Ask me about <b>CORE JAVA, SPRING, SQL, PYTHON, PowerBI </b>.<br/>
 • 🔭 I’m always <b>learning new skills!</b> <br/>
 • 👯 I want to team up on exciting projects.<br/>
-• 📫 Reach me out <a href="www.linkedin.com/in/ipsita-panda2000/"><b>Ipsita Panda</b></a><br/>
+• 📫 Reach me out <a href="https://www.linkedin.com/in/ipsita-panda2000/"><b>Ipsita Panda</b></a><br/>
     
 <!-- </span> -->
 <br />
