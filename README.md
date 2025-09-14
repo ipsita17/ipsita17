@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi! I'm Ipsita Panda</h1>
-<h3 align="center">A Passionate about Java Developer</h3>
+<h3 align="center">A Passionate about Software Developer</h3>
 <br />
-** <b> I AM A JAVA DEVELOPER .</b>**
+** <b> I AM A Software Developer .</b>**
 <br/> 
 I like making complicated problems easy with beautiful and user-friendly designs..<br/> I like simplifying complex problems into simple and beautiful interface designs and also elegant, efficient code in Core Java, Spring (MVC and Spring Boot), SQL as Database with Core Python and PowerBI as data visualization tools.
 
