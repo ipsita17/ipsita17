@@ -4,7 +4,7 @@
 <br />
 ** <b> I AM A Software Developer .</b>**
 <br/> 
-I like making complicated problems easy with beautiful and user-friendly designs..<br/> I like simplifying complex problems into simple and beautiful interface designs and also elegant, efficient code in Core Java, Spring (MVC and Spring Boot), SQL as Database with Core Python and PowerBI as data visualization tools.
+I like making complicated problems easy with beautiful and user-friendly designs..<br/> I like simplifying complex problems into simple and beautiful interface designs and also elegant, efficient code as Python, ETL tool, SQL as Database, AWS as cloud and PowerBI as data visualization tools.
 
 <br />
 
@@ -12,7 +12,7 @@ I like making complicated problems easy with beautiful and user-friendly designs
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://github.com/ipsita17/ipsita17/blob/main/cat.png" alt="octocat" style="margin-right: 2rem;" />
 
-• 💬 Ask me about <b>CORE JAVA, SPRING, SQL, PYTHON, PowerBI </b>.<br/>
+• 💬 Ask me about <b> PYTHON, ETL, SQL, AWS, PowerBI </b>.<br/>
 • 🔭 I’m always <b>learning new skills!</b> <br/>
 • 👯 I want to team up on exciting projects.<br/>
 • 📫 Reach me out <a href="https://www.linkedin.com/in/ipsita-panda2000/"><b>Ipsita Panda</b></a><br/>
@@ -45,12 +45,17 @@ I like making complicated problems easy with beautiful and user-friendly designs
 ## 🗄️ **DATABASES**  
 ![ORACLE](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=Oracle&logoColor=white "ORACLE")
 ![MYSQL](https://img.shields.io/badge/MySQl-FF6F00?style=for-the-badge&logo=MySql&logoColor=white "MYSQL")
+![MSSQL](https://img.shields.io/badge/MsSQl-FF0000?style=for-the-badge&logo=MsSql&logoColor=white "MSSQL")
+
+## 📍 **CLOUD**
+![AWS](https://img.shields.io/badge/AWS-FF0000?style=for-the-badge&logo=AWS&logoColor=white "AWS")
 
 ## 📍 **FRAMEWORK**
-![SPRING](https://img.shields.io/badge/SPRING-4EA94B?style=for-the-badge&logo=SPRING&logoColor=white "SPRING")
+![SPRING](https://img.shields.io/badge/SPRING-4EA94B?style=for-the-badge&logo=SPRIN&logoColor=white "SPRING")
 
 ## 📊 **VISUALIZATION TOOLS**  
 ![POWER BI](https://img.shields.io/badge/PowerBI-fbbc04?style=for-the-badge&logo=PowerBI&logoColor=white "POWER BI")
+![LOOKER STUDIO](https://img.shields.io/badge/LOOKER_STUDIO-1572B6?style=for-the-badge&logo=Looker_studio&logoColor=white "LOOKER STUDIO")
 
 ## 📑 **SPREADSHEET & DATA ANALYSIS TOOLS**  
 ![EXCEL](https://img.shields.io/badge/Excel-006400?style=for-the-badge&logo=Excel&logoColor=white "EXCEL")
