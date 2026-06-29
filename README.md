@@ -4,7 +4,7 @@
 <br />
 ** <b> I AM A Software Developer .</b>**
 <br/> 
-I like making complicated problems easy with beautiful and user-friendly designs..<br/> I like simplifying complex problems into simple and beautiful interface designs and also elegant, efficient code as Python, ETL tool, SQL as Database, AWS as cloud and PowerBI as data visualization tools.
+I like making complicated problems easy with beautiful and user-friendly designs..<br/> I like simplifying complex problems into simple and beautiful interface designs and also elegant, efficient code as Java, Springboot, Hibernate, Python, ETL tool, SQL as Database, AWS as cloud and PowerBI as data visualization tools.
 
 <br />
 
