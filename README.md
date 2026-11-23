@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! I'm Ipsita Panda</h1>
-<h3 align="center">A Passionate about Software Developer, Java FullStack and AI Engineer</h3>
+<h3 align="center">Passionate about Software Developer, Java FullStack and AI Engineer</h3>
 <br />
 ** <b> I AM A Software Developer .</b>**
 <br/> 
