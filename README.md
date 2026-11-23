@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! I'm Ipsita Panda</h1>
-<h3 align="center">A Passionate about Software Developer</h3>
+<h3 align="center">A Passionate about Software Developer, Java FullStack and AI Engineer</h3>
 <br />
 ** <b> I AM A Software Developer .</b>**
 <br/> 
@@ -12,7 +12,7 @@ I like making complicated problems easy with beautiful and user-friendly designs
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://github.com/ipsita17/ipsita17/blob/main/cat.png" alt="octocat" style="margin-right: 2rem;" />
 
-• 💬 Ask me about <b> PYTHON, ETL, SQL, AWS, PowerBI </b>.<br/>
+• 💬 Ask me about <b> JAVA, SPRINGBOOT, MICROSERVICES, RESTAPI, PYTHON, ETL, SQL, AWS, PowerBI </b>.<br/>
 • 🔭 I’m always <b>learning new skills!</b> <br/>
 • 👯 I want to team up on exciting projects.<br/>
 • 📫 Reach me out <a href="https://www.linkedin.com/in/ipsita-panda2000/"><b>Ipsita Panda</b></a><br/>
